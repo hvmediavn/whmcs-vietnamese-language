@@ -1,4 +1,4 @@
-<?php
+<!-- <?php -->
 /**
  * WHMCS Language File
  * Vietnamese (vi)
@@ -142,11 +142,11 @@ $_LANG['clientareaconfirmpassword'] = "Xác nhận mật khẩu";
 $_LANG['clientareacontactsemails'] = "Thiết lập thông báo";
 $_LANG['clientareacontactsemailsdomain'] = "Thông báo tên miền - Thông báo gia hạn, Thông báo hết hạn, Thông báo xác nhận đăng ký, và các vấn đề khác liên quan đến tên miền...";
 $_LANG['clientareacontactsemailsgeneral'] = "Thông báo chung - Nhận các thông báo chung, tun tức, các sự kiện, khuyến mãi, lưu ý về mật khẩu, và các vấn đề chung khác...";
-$_LANG['clientareacontactsemailsinvoice'] = "Invoice Emails - Invoices &amp; Billing Reminders";
-$_LANG['clientareacontactsemailsproduct'] = "Product Emails - Order Details, Welcome Emails, etc...";
+$_LANG['clientareacontactsemailsinvoice'] = "Thông báo hóa đơn - Hóa đơn và các lời nhắc thanh toán";
+$_LANG['clientareacontactsemailsproduct'] = "Thông báo về sản phẩm - Thông tin đơn hàng, thư chào mừng, vân vân...";
 $_LANG['clientareacontactsemailssupport'] = "Support Emails - Receive a copy of all support ticket communications created by the parent account holder";
 $_LANG['clientareacountry'] = "Quốc gia";
-$_LANG['clientareacurrentsecurityanswer'] = "Please enter your current answer";
+$_LANG['clientareacurrentsecurityanswer'] = "Xin nhập vào câu trả lời của bạn";
 $_LANG['clientareacurrentsecurityquestion'] = "Please choose your current security question";
 $_LANG['clientareadeletecontact'] = "Delete Contact";
 $_LANG['clientareadeletecontactareyousure'] = "Are you sure you want to delete this contact?";
